@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 29.99,
+      "image": "http://localhost:5000/public/images/product1.jpeg" 
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 49.99,
+      "image": "http://localhost:5000/images/product2.jpg" 
+    }
+  ]
+}
